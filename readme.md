@@ -7,4 +7,4 @@ Simple Ecommerce is in initial development phase and is not ready for production
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The Simple Ecommerce is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
