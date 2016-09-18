@@ -178,6 +178,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        /*
+         * Ecommerce Service Providers...
+        */
+        Baum\Providers\BaumServiceProvider::class,
     ],
 
     /*
